@@ -1,0 +1,1 @@
+Upload the tested MG Smart Glow Arduino sketch into this folder as main.ino. The workflow expects firmware/src/main.ino.
